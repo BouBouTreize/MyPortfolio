@@ -27,8 +27,8 @@ window.PORTFOLIO = {
     },
     // Remplace les "#" par tes vrais liens
     links: [
-      { label: "GitHub",   url: "https://github.com/" },   // TODO: ton profil
-      { label: "LinkedIn", url: "https://www.linkedin.com/" } // TODO: ton profil
+      { label: "GitHub",   url: "https://github.com/BouBouTreize" },
+      { label: "LinkedIn", url: "https://www.linkedin.com/in/th%C3%A9o-vitte-52045a345/" }
     ],
     cv: "Vitte Théo.pdf" // fichier téléchargeable ; "" pour masquer le bouton
   },
