@@ -96,6 +96,7 @@
       return `<div class="contact">
         ${p.search && p.search.active ? `<p>${esc(p.search.detail)}</p>` : ""}
         <a class="contact__mail" href="mailto:${esc(p.email)}">${esc(p.email)}</a>
+        ${p.phone ? `<br><a class="contact__mail contact__phone" href="tel:${esc(p.phone.replace(/\s/g, ""))}">${esc(p.phone)}</a>` : ""}
         <div class="contact__links">${links}</div>
       </div>`;
     }

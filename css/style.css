@@ -288,3 +288,5 @@ img { max-width: 100%; display: block; }
 @media (prefers-reduced-motion: reduce) {
   .bg__blob, .hero__tag, .hero__frame::before, .marquee__track, .caret { animation: none; }
 }
+
+.contact__phone { font-size: clamp(18px, 3.5vw, 28px); margin-top: 14px; }

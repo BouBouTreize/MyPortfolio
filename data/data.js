@@ -19,6 +19,7 @@ window.PORTFOLIO = {
     photo: "assets/img/photo.jpg",
     location: "Aix / Marseille / Toulon",
     email: "vittetheo22@gmail.com",
+    phone: "06 60 05 63 39",
     // Recherche en cours : mets `active: false` pour masquer le bandeau
     search: {
       active: true,
