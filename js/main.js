@@ -19,7 +19,7 @@
   const ICONS = {
     "C": "c-plain", "C++": "cplusplus-plain", "Python": "python-plain", "JavaScript": "javascript-plain",
     "PHP": "php-plain", "React": "react-original", "Node.js": "nodejs-plain", "Vue.js": "vuejs-plain",
-    "Unity": "unity-plain", "MySQL": "mysql-plain", "Docker": "docker-plain", "Kubernetes": "kubernetes-plain",
+    "Unity": "unity-plain", "MySQL": "mysql-plain", "PostgreSQL": "postgresql-plain", "Docker": "docker-plain", "Kubernetes": "kubernetes-plain",
     "Git": "git-plain", "GitHub": "github-original", "GitHub Projects": "github-original",
     "GitKraken": "gitkraken-plain", "BitBucket": "bitbucket-original", "VSCode": "vscode-plain", "Jira": "jira-plain"
   };

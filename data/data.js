@@ -56,7 +56,7 @@ window.PORTFOLIO = {
     },
     {
       category: "Bases de données",
-      items: ["MySQL"]
+      items: ["MySQL", "PostgreSQL"]
     },
     {
       category: "DevOps & outils",
