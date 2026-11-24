@@ -23,8 +23,8 @@ window.PORTFOLIO = {
     // Recherche en cours : mets `active: false` pour masquer le bandeau
     search: {
       active: true,
-      label: "Stage de 6 mois · de mars à juillet",
-      detail: "Étudiant à Epitech, je recherche un stage de 6 mois de mars à juillet."
+      label: "Stage de 4 à 6 mois · de fin mars à fin août",
+      detail: "Étudiant à Epitech, je recherche un stage de 4 à 6 mois, de fin mars à fin août."
     },
     // Remplace les "#" par tes vrais liens
     links: [
@@ -72,6 +72,14 @@ window.PORTFOLIO = {
      image : "assets/img/mon-projet.png" (optionnel)
      links : [{ label, url }] (optionnel)  */
   projects: [
+    {
+      name: "CruX",
+      year: "En cours",
+      description: "Application d'escalade en bloc : à partir d'une très courte vidéo d'une voie filmée au téléphone, elle génère un environnement 3D où un avatar aux proportions de l'utilisateur grimpe la voie pour lui montrer la marche à suivre. Pause à tout moment pour voir les muscles sollicités, notation de la voie sur plusieurs critères (force, endurance…) et mode AR. Une fonction « coach » suit les voies réussies et le nombre d'essais, résume les performances et propose un planning et des exercices de renforcement. Pensée aussi comme un service à greffer aux applications des salles d'escalade.",
+      tags: ["3D", "AR", "Application mobile"],
+      image: "",
+      links: []
+    },
     {
       name: "Raytracer",
       year: "",
